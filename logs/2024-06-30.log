@@ -1,0 +1,206 @@
+2024-06-30 04:10:20,338 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:10:20,338 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:10:20,418 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:10:20,463 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:10:20,491 - Initializing CharActor.
+2024-06-30 04:10:20,510 - Initializing character bank.
+2024-06-30 04:11:20,818 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:11:20,818 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:11:20,895 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:11:20,937 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:11:20,957 - Initializing CharActor.
+2024-06-30 04:11:20,975 - Initializing character bank.
+2024-06-30 04:12:57,731 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:12:57,731 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:12:57,807 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:12:57,850 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:12:57,871 - Initializing CharActor.
+2024-06-30 04:12:57,889 - Initializing character bank.
+2024-06-30 04:15:06,262 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:15:06,262 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:15:06,340 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:15:06,384 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:15:06,405 - Initializing CharActor.
+2024-06-30 04:15:06,423 - Initializing character bank.
+2024-06-30 04:15:59,229 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:15:59,229 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:15:59,305 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:15:59,348 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:15:59,369 - Initializing CharActor.
+2024-06-30 04:15:59,387 - Initializing character bank.
+2024-06-30 04:16:43,772 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:16:43,772 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:16:43,850 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:16:43,894 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:16:43,914 - Initializing CharActor.
+2024-06-30 04:16:43,932 - Initializing character bank.
+2024-06-30 04:17:33,094 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:17:33,094 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:17:33,171 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:17:33,224 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:17:33,248 - Initializing CharActor.
+2024-06-30 04:17:33,266 - Initializing character bank.
+2024-06-30 04:20:55,627 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:20:55,627 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:20:55,702 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:20:55,743 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:20:55,763 - Initializing CharActor.
+2024-06-30 04:20:55,780 - Initializing character bank.
+2024-06-30 04:21:20,082 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:21:20,082 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:21:20,160 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:21:20,204 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:21:20,225 - Initializing CharActor.
+2024-06-30 04:21:20,243 - Initializing character bank.
+2024-06-30 04:24:40,696 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:24:40,696 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:24:40,771 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:24:40,813 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:24:40,833 - Initializing CharActor.
+2024-06-30 04:24:40,854 - Initializing character bank.
+2024-06-30 04:24:53,638 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:24:53,638 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:24:53,717 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:24:53,762 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:24:53,783 - Initializing CharActor.
+2024-06-30 04:24:53,802 - Initializing character bank.
+2024-06-30 04:25:56,990 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:25:56,990 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:25:57,071 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:25:57,116 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:25:57,138 - Initializing CharActor.
+2024-06-30 04:25:57,157 - Initializing character bank.
+2024-06-30 04:26:35,240 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:26:35,240 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:26:35,318 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:26:35,363 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:26:35,384 - Initializing CharActor.
+2024-06-30 04:26:35,403 - Initializing character bank.
+2024-06-30 04:27:07,489 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:27:07,489 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:27:07,566 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:27:07,610 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:27:07,630 - Initializing CharActor.
+2024-06-30 04:27:07,648 - Initializing character bank.
+2024-06-30 04:28:11,685 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:28:11,685 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:28:11,762 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:28:11,807 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:28:11,828 - Initializing CharActor.
+2024-06-30 04:28:11,846 - Initializing character bank.
+2024-06-30 04:40:29,124 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:40:29,124 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:40:29,200 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:40:29,243 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:40:29,263 - Initializing CharActor.
+2024-06-30 04:40:29,281 - Initializing character bank.
+2024-06-30 04:40:55,122 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:40:55,122 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:40:55,199 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:40:55,243 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:40:55,263 - Initializing CharActor.
+2024-06-30 04:40:55,281 - Initializing character bank.
+2024-06-30 04:44:06,223 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:44:06,223 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:44:06,300 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:44:06,342 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:44:06,362 - Initializing CharActor.
+2024-06-30 04:44:06,380 - Initializing character bank.
+2024-06-30 04:47:16,001 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:47:16,001 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:47:16,082 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:47:16,125 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:47:16,146 - Initializing CharActor.
+2024-06-30 04:47:16,164 - Initializing character bank.
+2024-06-30 04:57:53,718 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:57:53,718 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:57:53,796 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:57:53,838 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:57:53,858 - Initializing CharActor.
+2024-06-30 04:57:53,876 - Initializing character bank.
+2024-06-30 04:58:11,864 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:58:11,864 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:58:11,941 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:58:11,985 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:58:12,016 - Initializing CharActor.
+2024-06-30 04:58:12,034 - Initializing character bank.
+2024-06-30 04:59:36,340 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 04:59:36,340 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 04:59:36,415 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 04:59:36,457 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 04:59:36,478 - Initializing CharActor.
+2024-06-30 04:59:36,495 - Initializing character bank.
+2024-06-30 05:00:54,363 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 05:00:54,363 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 05:00:54,440 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 05:00:54,483 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 05:00:54,504 - Initializing CharActor.
+2024-06-30 05:00:54,522 - Initializing character bank.
+2024-06-30 05:02:13,241 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 05:02:13,241 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 05:02:13,320 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 05:02:13,363 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 05:02:13,384 - Initializing CharActor.
+2024-06-30 05:02:13,402 - Initializing character bank.
+2024-06-30 13:45:13,631 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 13:45:13,631 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 13:45:13,713 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 13:45:13,759 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 13:45:13,782 - Initializing CharActor.
+2024-06-30 13:45:13,801 - Initializing character bank.
+2024-06-30 13:45:53,883 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 13:45:53,884 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 13:45:53,964 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 13:45:54,009 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 13:45:54,031 - Initializing CharActor.
+2024-06-30 13:45:54,050 - Initializing character bank.
+2024-06-30 13:46:16,473 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 13:46:16,473 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 13:46:16,554 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 13:46:16,600 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 13:46:16,622 - Initializing CharActor.
+2024-06-30 13:46:16,641 - Initializing character bank.
+2024-06-30 13:47:02,745 - GRIDENGINE - __log__ - random_cell(Grid)
+2024-06-30 13:49:36,534 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 13:49:36,535 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 13:49:36,613 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 13:49:36,658 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 13:49:36,679 - Initializing CharActor.
+2024-06-30 13:49:36,697 - Initializing character bank.
+2024-06-30 13:50:01,933 - GRIDENGINE - __log__ - random_cell(Grid)
+2024-06-30 14:15:50,671 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 14:15:50,671 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 14:15:50,751 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 14:15:50,797 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 14:15:50,818 - Initializing CharActor.
+2024-06-30 14:15:50,837 - Initializing character bank.
+2024-06-30 23:06:07,701 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 23:06:07,701 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 23:06:07,779 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 23:06:07,822 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 23:06:07,842 - Initializing CharActor.
+2024-06-30 23:06:07,861 - Initializing character bank.
+2024-06-30 23:08:28,785 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 23:08:28,785 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 23:08:28,865 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 23:08:28,909 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 23:08:28,931 - Initializing CharActor.
+2024-06-30 23:08:28,949 - Initializing character bank.
+2024-06-30 23:10:28,647 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 23:10:28,647 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 23:10:28,724 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 23:10:28,767 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 23:10:28,787 - Initializing CharActor.
+2024-06-30 23:10:28,805 - Initializing character bank.
+2024-06-30 23:30:03,994 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 23:30:03,994 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 23:30:04,076 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 23:30:04,120 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 23:30:04,141 - Initializing CharActor.
+2024-06-30 23:30:04,159 - Initializing character bank.
+2024-06-30 23:31:27,219 - GRIDENGINE - __log__ - Setting saves directory ...
+2024-06-30 23:31:27,219 - GRIDENGINE - __log__ - Saves directory set to /devel/boss/envs/CharMonster/grid_engine/_saves/
+2024-06-30 23:31:27,296 - base_actor: BaseActor: Initializing BaseActor class.
+2024-06-30 23:31:27,340 - base_actor: BaseCharacter: Initializing BaseCharacter class.
+2024-06-30 23:31:27,361 - Initializing CharActor.
+2024-06-30 23:31:27,379 - Initializing character bank.
